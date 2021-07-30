@@ -1,6 +1,6 @@
 library(googleway)
 
-key='AIzaSyBigpmukitoX306WGTBL-4Z_m-aj-VPhys'
+key='xxxxxx'
 
 df_places <- google_places(search_string = "warung makan", 
                            location = c(-6.2758903,106.8073032),   ## melbourne, AU
